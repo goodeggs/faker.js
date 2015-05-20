@@ -29,5 +29,6 @@
     "sinon": "1.14.1",
     "vinyl-transform": "1.0.0"
   },
+  "license": "MIT",
   "main": "index.js"
 }
